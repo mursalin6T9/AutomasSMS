@@ -1,0 +1,12 @@
+# cPanel / server noise
+error_log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp

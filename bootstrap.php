@@ -20,7 +20,7 @@ if (defined('AUTOMASSMS_VERSION')) {
     return;
 }
 
-define('AUTOMASSMS_VERSION', '1.0.1');
+define('AUTOMASSMS_VERSION', '1.0.2');
 define('AUTOMASSMS_PATH', __DIR__);
 define('AUTOMASSMS_MODULE', basename(__DIR__));
 

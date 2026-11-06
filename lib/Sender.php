@@ -109,7 +109,7 @@ class Sender
                 'client_id'   => $job['client_id'],
                 'source'      => $source,
                 'sender_id'   => $senderId,
-                'recipient'   => $msisdn,
+                'recipient'   => $job['msisdn'],
                 'message'     => $job['text'],
                 'encoding'    => $measured['encoding'],
                 'parts'       => $measured['parts'],
